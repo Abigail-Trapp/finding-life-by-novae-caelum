@@ -1,0 +1,19 @@
+* {
+    background-color: teal;
+}
+
+body{
+    padding: 20px;
+    padding-right: 180px;
+    background-color: white;
+    width: 500px;
+    position: fixed;
+}
+h1,p{
+    background-color:white;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    background-color: white;
+}
